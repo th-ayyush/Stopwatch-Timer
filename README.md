@@ -1,6 +1,6 @@
 
 # Project Title
-Notes app using basic HTML,CSS,Javascript.
+Stopwatch app using basic HTML,CSS,Javascript.
 
 Wanna set timer for your daily tasks , I got yaa!!
  
